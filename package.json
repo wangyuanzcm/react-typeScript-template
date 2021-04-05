@@ -1,0 +1,27 @@
+{
+  "name": "hiker-reactDemo",
+  "version": "1.0.0",
+  "description": "TypeScript+webpack+React-hooks+KOA2项目模版",
+  "main": "index.js",
+  "scripts": {
+    "client:dev": "scripty",
+    "client:prod": "scripty"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "scripty": "^2.0.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.25.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangyuanzcm/react-typeScript-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wangyuanzcm/react-typeScript-template/issues"
+  },
+  "homepage": "https://github.com/wangyuanzcm/react-typeScript-template#readme"
+}
