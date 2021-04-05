@@ -1,5 +1,5 @@
 {
-  "name": "hiker-reactDemo",
+  "name": "react-typeScript-template",
   "version": "1.0.0",
   "description": "TypeScript+webpack+React-hooks+KOA2项目模版",
   "main": "index.js",
